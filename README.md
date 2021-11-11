@@ -10,4 +10,4 @@
 ![image](https://cdn.discordapp.com/attachments/805771081587359794/887334282681520138/unknown.png)
 
 ###### Made By / 수콩#1115
-🐬 Dolphin Server (__**Korea Server No.1**__) <a href="https://discord.gg/dolphin" target="_blank"><img src="https://img.shields.io/badge/Dolphin Discord-5865F2?style=flat-square&logo=Discord&logoColor=FFF"/></a>
+🐬 Dolphin Server (__**Korea Server No.1**__) <a href="https://discord.gg/dolp" target="_blank"><img src="https://img.shields.io/badge/Dolphin Discord-5865F2?style=flat-square&logo=Discord&logoColor=FFF"/></a>
